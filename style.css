@@ -1,0 +1,87 @@
+/* Document Layout */
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#markdown {
+    position: relative;
+    padding: 2vh 5vw;
+    margin: 2vh 2vw;
+    background-color: rgba(0, 0, 0, 0.0225);
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.125);
+    border-radius: 15px;
+}
+
+/* Elements */
+/* Text */
+p {
+    font-size: 1.1em;
+    margin: 15px 0;
+    padding: 0 5px;
+}
+
+/* Links */
+a {
+    font-weight: 400;
+    color: #279af1;
+    text-decoration: none;
+}
+a:hover {
+    color: #0c72c0;
+}
+
+/* Headers & Content */
+h1 {
+    font-size: 2.25rem;
+    margin: 1vh 0;
+    padding: 5px;
+}
+h2 {
+    font-size: 1.575rem;
+    margin: 1vh 0;
+    padding: 5px;
+}
+h3 {
+    font-size: 1.2em;
+    margin: 0;
+    padding: 5px;
+}
+h4 {
+    font-size: 0.825em;
+    margin: 5vh 0 1vh 0;
+    padding: 5px;
+}
+h5 {
+    font-size: 0.7em;
+    margin: 2vh 0 1vh 0;
+    padding: 5px;
+}
+
+/* Lists */
+ul, ol {
+    margin: 5px 0;
+}
+ul > li, ol > li {
+    margin: 2.5px;
+    padding: 2.5px;
+}
+
+/* Add support for 'scrolling to' elements */
+.highlighted-element {
+    background-color: rgba(255, 255, 0, 0.215);
+    animation: fadeHighlight 1.245s forwards ease;
+    animation-delay: 800ms;
+}
+@keyframes fadeHighlight {
+    0% {
+        background-color: rgba(255, 255, 0, 0.215);
+    }
+    35% {
+        background-color: rgba(255, 255, 0, 0.6);
+    }
+    75% {
+        background-color: rgba(255, 255, 0, 0.6);
+    }
+    100% {
+        background-color: rgba(255, 255, 0, 0.245);
+    }
+}
