@@ -1,7 +1,7 @@
 # Explanation of the Rules {explanation}
 **This is not a comprehensive document.** There may be restrictions we assume are implied, included in external, linked documents, or of which are covered by a “catch-all” statement. This document is provided to give you a better understanding of the exact expectations for your behavior in our community.  
   
-If you have any questions, please direct them to your local community moderators, as they have the final say in any finalized, situational decisions based on their interpretations of these rules. These rules encourage and support those individual interpretations.  
+If you have any questions not answered by this document, please direct them to your local community moderators, as they will have the final say in any situational decisions based on their individual interpretations of these rules. These rules encourage and support those individual interpretations.  
   
 ## Always try your best to improve yourself. {rule1}
 ### What does this mean?
