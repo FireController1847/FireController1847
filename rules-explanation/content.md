@@ -80,4 +80,4 @@ If you have any questions not answered by this document, please direct them to y
     - These situations will always be handled on a case-by-case basis.
   
 ## Final Words
-These rules are designed to give you the most optimal experience as you participate in our community. Adhering to them will help everyone feel welcome, loved, and accepted in a world of growing contention, chaos, and passionate disagreements. We welcome you, and hope you feel welcome in our communities.
+These rules are designed to give you the most optimal experience as you participate in our community. Adhering to them will help everyone feel welcome, loved, and accepted in a world of growing contention, chaos, and passionate disagreements. We welcome you, and hope you feel welcome in our community.
